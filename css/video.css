@@ -27,7 +27,8 @@
   }
 
   .description {
-    position: absolute;
+    position: center;
+    margin-top: 700px;
     bottom: 0;
     text-align: center;
     background-color: #fff;
